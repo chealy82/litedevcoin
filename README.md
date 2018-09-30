@@ -1,5 +1,4 @@
-Livedevcoin
-What is Livedevcoin?
+Livedevcoin What is Livedevcoin?
 
 Livedevcoin is a clone of Litecoin.
 

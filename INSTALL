@@ -1,0 +1,9 @@
+Building Litedevcoin
+
+See doc/readme-qt.rst for instructions on building Litedevcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Litedevcoin.
+
+See doc/build-*.txt for instructions on building litedevcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Litedevcoin.
